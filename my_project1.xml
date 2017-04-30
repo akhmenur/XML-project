@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Google_app_settings>
+<Settings>
+   <search_language> 
+      <name type="language">Czech</name>
+	</search_language>
+    <account>
+          <account_nickname type="name">John</account_nickname>
+		  <account_mail type="e-mail">qwerty@gmail.com</account_mail>
+    </account>  
+	<search_region>
+	  <name type= "country">Czech Republic</name>
+	</search_region>  
+	<notification_settings>
+	    <doodles type="Enable">On</doodles>
+		<safe_search_fiter type="Enable">On</safe_search_fiter>
+		<open_web_pages_in_app type="Enable">On</open_web_pages_in_app>
+		<feed type="Disable">Off</feed>
+		<speech_output type="Disable">Off</speech_output>
+		<enable_recent type="Enable">On</enable_recent>
+		<news_frequency>
+	        <frequency type="hours">24</frequency>
+		</news_frequency>
+	</notification_settings>	
+    <theme_settings>
+        <font type="style">Cambria</font>
+		<theme type="style">Sand</theme>
+		<brightness type="level">low</brightness>
+	</theme_settings>
+</Settings>	
+<Settings>
+   <search_language> 
+      <name type="language">Russian</name>
+	</search_language>
+        <account>
+                    <account_nickname type="name">Ivan</account_nickname>
+		  <account_mail type="e-mail">asd@gmail.com</account_mail>
+        </account>  
+	<search_region>
+	  <name type= "country">Russia Federation</name>
+	</search_region>   
+	<notification_settings>
+	    <doodles type="Enable">On</doodles>
+		<safe_search_fiter type="Disable">Off</safe_search_fiter>
+		<open_web_pages_in_app type="Enable">On</open_web_pages_in_app>
+		<feed type="Disable">Off</feed>
+		<speech_output type="Disable">Off</speech_output>
+		<enable_recent type="Disable">Off</enable_recent>
+		<news_frequency>
+	        <frequency type="hours">5</frequency>
+		</news_frequency>
+	</notification_settings>		
+    <theme_settings>
+        <font type="style">Bauhaus</font>
+		<theme type="style">Disco</theme>
+		<brightness type="level">low</brightness>
+	</theme_settings>
+</Settings>	
+<Settings>
+   <search_language> 
+      <name type="language">Kazakh</name>
+	</search_language>
+   <account>
+          <account_nickname type="name">Aman</account_nickname>
+		  <account_mail type="e-mail">aman@gmail.com</account_mail>
+    </account>  
+	<search_region>
+	  <name type= "country">Kazakhstan</name>
+	</search_region> 
+	<notification_settings>
+	    <doodles type="Enable">On</doodles>
+		<safe_search_fiter type="Disable">Off</safe_search_fiter>
+		<open_web_pages_in_app type="Enable">On</open_web_pages_in_app>
+		<feed type="Disable">Off</feed>
+		<speech_output type="Disable">Off</speech_output>
+		<enable_recent type="Disable">Off</enable_recent>
+		<news_frequency>
+	        <frequency type="hours">24</frequency>
+		</news_frequency>
+	</notification_settings>	
+    <theme_settings>
+        <font type="style">Ebrima</font>
+		<theme type="style">Red</theme>
+		<brightness type="level">high</brightness>
+	</theme_settings>
+</Settings>	
+<Settings>
+   <search_language> 
+      <name type="language">Turkish</name>
+	</search_language>
+   <account>
+          <account_nickname type="name">Ozad</account_nickname>
+		  <account_mail type="e-mail">ozad@gmail.com</account_mail>
+    </account>  
+	<search_region>
+	  <name type= "country">Turkish Republic</name>
+	</search_region> 
+	<notification_settings>
+	    <doodles type="Disable">Off</doodles>
+		<safe_search_fiter type="Enable">On</safe_search_fiter>
+		<open_web_pages_in_app type="Enable">On</open_web_pages_in_app>
+		<feed type="Disable">Off</feed>
+		<speech_output type="Enable">On</speech_output>
+		<enable_recent type="Enable">On</enable_recent>
+		<news_frequency>
+	        <frequency type="hours">24</frequency>
+		</news_frequency>
+	</notification_settings>	
+    <theme_settings>
+        <font type="style">Arial</font>
+		<theme type="style">Blue</theme>
+		<brightness type="level">low</brightness>
+	</theme_settings>
+</Settings>	
+<Settings>
+   <search_language> 
+      <name type="language">French</name>
+	</search_language>
+   <account>
+          <account_nickname type="name">Marsel</account_nickname>
+		  <account_mail type="e-mail">marsel@gmail.com</account_mail>
+    </account>  
+	<search_region>
+	  <name type= "country">France</name>
+	</search_region>   
+	<notification_settings>
+	    <doodles type="Enable">On</doodles>
+		<safe_search_fiter type="Enable">On</safe_search_fiter>
+		<open_web_pages_in_app type="Enable">On</open_web_pages_in_app>
+		<feed type="Disable">Off</feed>
+		<speech_output type="Enable">On</speech_output>
+		<enable_recent type="Enable">On</enable_recent>
+		<news_frequency>
+	        <frequency type="hours">24</frequency>
+		</news_frequency>
+	</notification_settings>		
+    <theme_settings>
+        <font type="style">Impact</font>
+		<theme type="style">Black</theme>
+		<brightness type="level">low</brightness>
+	</theme_settings>
+</Settings>	
+</Google_app_settings>
